@@ -10,7 +10,7 @@ Front-end Dev
 - js frameworks (Vue or React or Angular)
 
 ### best Tools & editors
-- Figma
+- Figma (sw program for design)
 - vs code
 - firfox browser (Grid)
 - ColorZilla (extention web)

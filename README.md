@@ -6,7 +6,7 @@ Front-end Dev
 - css, css3
 - Sass 
 - bootstrap
-- java scribt 
+- java scribt (ES6)
 - js frameworks (Vue or React or Angular)
 
 ### best Tools & editors

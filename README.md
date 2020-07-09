@@ -19,3 +19,4 @@ Front-end Dev
 - https://fonts.google.com/ (fonts)
 - https://fontawesome.com/v4.7.0/icons/ (font icons)
 - https://www.pexels.com/search/mac%20notes%20cafe/ (photos)
+- https://getwaves.io/ (svg waves)

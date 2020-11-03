@@ -5,6 +5,7 @@ Front-end Dev
 - html, html5
 - css, css3
 - Sass 
+- responsive design
 - bootstrap
 - java scribt (ES6)
 - js frameworks (Vue or React or Angular)

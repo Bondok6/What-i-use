@@ -6,7 +6,7 @@ Front-end Track
 - css, css3
 - Sass 
 - responsive design
-- bootstrap 4
+- bootstrap 5
 - java scribt (ES6)
 - js frameworks (Vue or React or Angular)
 

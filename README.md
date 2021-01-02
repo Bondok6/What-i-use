@@ -13,6 +13,7 @@ Front-end Track
 ### best Tools & editors
 - Figma (sw program for design)
 - vs code (editor)
+  -- extention
 - firfox browser (Grid)
 - ColorZilla (extention web)
 - https://tinypng.com/ (compress images)

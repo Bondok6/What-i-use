@@ -1,5 +1,5 @@
 # Requirements
-Front-end Track
+Frontend Track
 
 ### Scribt & programming languages 
 - html, html5

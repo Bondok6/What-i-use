@@ -22,7 +22,7 @@ Frontend Track
 - https://uigradients.com/#WitchingHour (gradients)
 - https://fonts.google.com/ (fonts)
 - https://fontawesome.com/v4.7.0/icons/ (icons)
-- https://materialdesignicons.com/  (icons)
+- https://materialdesignicons.com/  (icons - svg)
 - https://www.pexels.com/ (photos)
 - https://getwaves.io/ (svg waves)
 - http://lorempixel.com/ (random images)

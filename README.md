@@ -27,3 +27,4 @@ Frontend Track
 - https://getwaves.io/ (svg waves)
 - http://lorempixel.com/ (random images)
 - https://www.netlify.com (free deploy)
+- https://bennettfeely.com/clippy/ (clip-path)

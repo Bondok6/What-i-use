@@ -16,7 +16,6 @@ Frontend Track
     1. css peek
     2. intellisence
     3. live server
-- firfox browser (Grid)
 - ColorZilla (extention web)
 - https://tinypng.com/ (compress images)
 - https://uigradients.com/#WitchingHour (gradients)

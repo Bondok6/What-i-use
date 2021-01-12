@@ -1,7 +1,7 @@
 # Requirements
-Frontend Track
+## Frontend Track
 
-### Scribt & programming languages 
+### Languages 
 - html, html5
 - css, css3
 - Sass 
@@ -10,13 +10,16 @@ Frontend Track
 - java scribt (ES6)
 - js frameworks (Vue or React or Angular)
 
-### best Tools & editors
-- Figma (sw program for design)
+### best (Tools & Editor & Websites)  
+- Figma (for Design)
+
 - vs code (editor) 
     1. css peek
     2. intellisence
     3. live server
+    
 - ColorZilla (extention web)
+
 - https://tinypng.com/ (compress images)
 - https://uigradients.com/#WitchingHour (gradients)
 - https://fonts.google.com/ (fonts)

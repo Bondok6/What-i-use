@@ -1,5 +1,5 @@
 # Requirements
-## Frontend Track ### What you need to know 
+## Frontend Track 
 
 ### Languages 
 - html, html5

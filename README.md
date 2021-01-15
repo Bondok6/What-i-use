@@ -18,7 +18,7 @@
     2. intellisence
     3. live server
     
-- ColorZilla (extention web)
+- ColorZilla (web extention)
 
 - https://tinypng.com/ (compress images)
 - https://uigradients.com/#WitchingHour (gradients)

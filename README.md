@@ -11,7 +11,7 @@
 - js frameworks (Vue or React or Angular)
 
 ### best (Tools & Editor & Websites)  
-- Figma (for Design)
+- Figma (for Design UI, UX)
 
 - vs code (editor) 
     1. css peek

@@ -30,3 +30,4 @@
 - http://lorempixel.com/ (random images)
 - https://bennettfeely.com/clippy/ (clip-path)
 - https://www.netlify.com (free deploy)
+- https://developers.google.com/chart/ (charts)

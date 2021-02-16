@@ -27,7 +27,7 @@
 - https://materialdesignicons.com/  (icons - svg)
 - https://www.pexels.com/ (photos)
 - https://getwaves.io/ (svg waves)
-- http://lorempixel.com/ (random images)
+- http://lorempixel.com/ or https://picsum.photos/ (random images)
 - https://bennettfeely.com/clippy/ (clip-path)
 - https://www.netlify.com (free deploy)
 - https://developers.google.com/chart/ (charts)

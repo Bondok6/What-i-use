@@ -8,7 +8,7 @@
 - responsive design
 - bootstrap 5
 - java scribt (ES6)
-- js frameworks (Vue or React or Angular)
+- React.js
 
 ### best (Tools & Editor & Websites)  
 - Figma (for Design UI, UX)

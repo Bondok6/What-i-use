@@ -6,7 +6,7 @@
 - css, css3
 - Sass 
 - responsive design
-- bootstrap 5
+- bootstrap 
 - java scribt (ES6)
 - React.js
 

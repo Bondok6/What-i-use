@@ -13,10 +13,15 @@
 ### best (Tools & Editor & Websites)  
 - Figma (for Design UI, UX)
 
-- vs code (editor) 
+- VS code (editor) 
+    > Useful Extensions
     1. css peek
-    2. intellisence
+    3. intellisence
     3. live server
+    4. color highlight
+    5. google fonts
+    6. image preview
+    7. auto rename tag
     
 - ColorZilla (web extention)
 

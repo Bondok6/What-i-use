@@ -1,16 +1,8 @@
-# Frontend Track 
-## Requirements & Tools & What i use 
+# Frontend Track
 
-### Languages 
-- html, html5
-- css, css3
-- Sass 
-- responsive design
-- bootstrap 
-- java scribt (ES6)
-- React.js
 
-### best (Tools & Editor & Websites)  
+## What I Use
+
 - Figma (for Design UI, UX)
 
 - VS code (editor) 
@@ -25,6 +17,7 @@
     
 - ColorZilla (web extention)
 
+> Websites
 - [Compress Images](https://tinypng.com/)
 - [Gradients](https://uigradients.com/#WitchingHour)
 - [Google Fonts](https://fonts.google.com/) 

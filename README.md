@@ -15,7 +15,7 @@
     6. image preview
     7. auto rename tag
     
-- ColorZilla (web extention)
+- ColorZilla (chrome fextention)
 
 > Websites
 - [Compress Images](https://tinypng.com/)

@@ -14,6 +14,8 @@
     5. google fonts
     6. image preview
     7. auto rename tag
+    8. live sass server
+
     
 - ColorZilla (chrome fextention)
 

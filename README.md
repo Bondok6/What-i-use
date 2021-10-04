@@ -8,7 +8,7 @@
 - VS code (editor) 
     > Useful Extensions
     1. css peek
-    3. intellisence
+    2. intellisence
     3. live server
     4. color highlight
     5. google fonts

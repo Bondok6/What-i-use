@@ -17,19 +17,22 @@
     8. live sass server
 
     
-- ColorZilla (chrome fextention)
+- Chrome extensions
+    - colorzilla
+    - mobile simulator
+    - loom
 
-> Websites
-- [Compress Images](https://tinypng.com/)
-- [Gradients](https://uigradients.com/#WitchingHour)
-- [Google Fonts](https://fonts.google.com/) 
-- [Fontawesome Icons](https://fontawesome.com/v4.7.0/icons/)
-- [Material Design Icons](https://materialdesignicons.com/)
-- [Photos](https://www.pexels.com/) 
-- [SVG Waves](https://getwaves.io/) 
-- [Random Images lorempixel](http://lorempixel.com/)
-- [Random Images picsum](https://picsum.photos/)
-- [Clip-Path](https://bennettfeely.com/clippy/)
-- [Netlify for deployment](https://www.netlify.com) 
-- [Google Charts](https://developers.google.com/chart/)
-- [Leaflet map](https://leafletjs.com/) 
+- Websites
+    - [Compress Images](https://tinypng.com/)
+    - [Gradients](https://uigradients.com/#WitchingHour)
+    - [Google Fonts](https://fonts.google.com/) 
+    - [Fontawesome Icons](https://fontawesome.com/v4.7.0/icons/)
+    - [Material Design Icons](https://materialdesignicons.com/)
+    - [Photos](https://www.pexels.com/) 
+    - [SVG Waves](https://getwaves.io/) 
+    - [Random Images lorempixel](http://lorempixel.com/)
+    - [Random Images picsum](https://picsum.photos/)
+    - [Clip-Path](https://bennettfeely.com/clippy/)
+    - [Netlify for deployment](https://www.netlify.com) 
+    - [Google Charts](https://developers.google.com/chart/)
+    - [Leaflet map](https://leafletjs.com/) 

@@ -15,6 +15,7 @@
     6. image preview
     7. auto rename tag
     8. live sass server
+    9. prettier
 
     
 - Chrome extensions

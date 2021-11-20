@@ -29,6 +29,7 @@
     - [Google Fonts](https://fonts.google.com/) 
     - [Fontawesome Icons](https://fontawesome.com/v4.7.0/icons/)
     - [Material Design Icons](https://materialdesignicons.com/)
+    - [Splash Icons](https://www.visiwig.com/icons/splash-icons/)
     - [Photos](https://www.pexels.com/) 
     - [SVG Waves](https://getwaves.io/) 
     - [Random Images lorempixel](http://lorempixel.com/)

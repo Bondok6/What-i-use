@@ -38,4 +38,4 @@
     - [Netlify for deployment](https://www.netlify.com) 
     - [Google Charts](https://developers.google.com/chart/)
     - [Leaflet map](https://leafletjs.com/) 
-    - [Videos](https://coverr.co/)
+    - [Random Videos](https://coverr.co/)

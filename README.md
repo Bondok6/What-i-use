@@ -16,6 +16,10 @@
     7. auto rename tag
     8. live sass server
     9. prettier
+    10. jest
+    11. eslint
+    12. webhint
+    13. stylelint
 
     
 - Chrome extensions
@@ -39,3 +43,4 @@
     - [Google Charts](https://developers.google.com/chart/)
     - [Leaflet map](https://leafletjs.com/) 
     - [Random Videos](https://coverr.co/)
+    - [Free Svg Icons](https://www.svgrepo.com/)

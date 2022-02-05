@@ -43,3 +43,4 @@
     - [Leaflet map](https://leafletjs.com/) 
     - [Random Videos](https://coverr.co/)
     - [Free Svg Icons](https://www.svgrepo.com/)
+    - [Animation](https://whirl.netlify.app/)

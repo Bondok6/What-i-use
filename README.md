@@ -19,6 +19,7 @@
     11. eslint
     12. webhint
     13. stylelint
+    14. ES7+ React/Redux/React-Native snippets
 
     
 - Chrome extensions

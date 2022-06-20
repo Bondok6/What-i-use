@@ -48,3 +48,6 @@
     - [Border Raduis](https://9elements.github.io/fancy-border-radius/)
     - [unDraw](https://undraw.co/)
     - [useFrom](https://react-hook-form.com/get-started)
+    - [Swiper](https://swiperjs.com/)
+    - [React toastify](https://www.npmjs.com/package/react-toastify)
+    - [Confirm Alert](https://github.com/GA-MO/react-confirm-alert)

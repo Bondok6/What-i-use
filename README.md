@@ -51,3 +51,4 @@
     - [Swiper](https://swiperjs.com/)
     - [React toastify](https://www.npmjs.com/package/react-toastify)
     - [Confirm Alert](https://github.com/GA-MO/react-confirm-alert)
+    - [Loader Spinner](https://www.npmjs.com/package/react-loader-spinner)

@@ -54,3 +54,4 @@
     - [Loader Spinner](https://www.npmjs.com/package/react-loader-spinner)
     - [Headless UI](https://headlessui.dev/)
     - [Hero Icons](https://heroicons.com/)
+    - [Full Calendar](https://fullcalendar.io/)

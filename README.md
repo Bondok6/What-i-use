@@ -56,3 +56,5 @@
     - [Hero Icons](https://heroicons.com/)
     - [Full Calendar](https://fullcalendar.io/)
     - [Change img, svg colors](https://codepen.io/sosuke/pen/Pjoqqp)
+    - [MUI](https://mui.com/)
+    - [RapidAPI](https://rapidapi.com/hub)

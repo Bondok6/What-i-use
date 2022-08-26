@@ -58,3 +58,4 @@
     - [Change img, svg colors](https://codepen.io/sosuke/pen/Pjoqqp)
     - [MUI](https://mui.com/)
     - [RapidAPI](https://rapidapi.com/hub)
+    - [React Player](https://www.npmjs.com/package/react-player)

@@ -60,3 +60,5 @@
     - [Matrial Icons](https://mui.com/material-ui/icons/)
     - [RapidAPI](https://rapidapi.com/hub)
     - [React Player](https://www.npmjs.com/package/react-player)
+    - [Convert CSS to ... ](https://css2js.dotenv.dev/)
+    - [Find Package](https://bundlephobia.com/)

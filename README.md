@@ -3,8 +3,6 @@
 
 ## What I Use
 
-- Figma (for Design UI, UX)
-
 - VS code (editor) 
     > Useful Extensions
     2. intellisence
@@ -24,7 +22,10 @@
     
 - Chrome extensions
     - colorzilla
+    - whatfont
     - mobile simulator
+    - react devtools
+    - vue devtools
 
 
 - Websites

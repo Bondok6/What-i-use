@@ -64,3 +64,4 @@
     - [Find Package](https://bundlephobia.com/)
     - [Drag & Drop](https://github.com/atlassian/react-beautiful-dnd)
     - [Icomoon](https://icomoon.io/#home)
+    - [HTML Entities](https://css-tricks.com/snippets/html/glyphs/)
